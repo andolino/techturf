@@ -108,7 +108,7 @@
             </div>
             <!-- END COPYRIGHT FOR MOBILE -->
           </div>
-          <!-- END MENU ITEM -->
+          <!-- END MENU ITEMS -->
         </div>
       </div>
     </nav>
